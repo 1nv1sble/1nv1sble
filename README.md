@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1nv1sble
 - 👀 I’m interested in minecraft, cooking, coding (obviously), 3d modelling, etc.
-- 🌱 I’m currently learning how to use python =)
-- 💞️ I’m looking to collaborate on anything!
+- 🌱 I’m currently learning how to use python and c# =)
+- 💞️ I’m looking to collaborate on modding(minecraft)!
 - 📫 How to reach me dhwhzl41@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like fun facts
