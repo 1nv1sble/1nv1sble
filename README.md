@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1nv1sble
-- 👀 I’m interested in pokemon, cooking, coding (obviously), 3d modelling, etc.
+- 👀 I’m interested in minecraft, cooking, coding (obviously), 3d modelling, etc.
 - 🌱 I’m currently learning how to use python =)
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me dhwhzl41@gmail.com
